@@ -16,4 +16,4 @@ Testing the routes is done using insomnia. See walkthrough video for example of 
 For additional questions, reach out to cvera8873@gmail.com. 
 
 ## Tutorial 
-For a walkthrough video of how the app works, visit: 
+For a walkthrough video of how the app works, visit: https://app.screencastify.com/v3/watch/a9MuyvQyGTNpkgAlAkrX
